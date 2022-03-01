@@ -1,26 +1,12 @@
-Calculator
----
-<img src="Logotype primary.png" width="60%" height="60%" />
+## Calculator
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+This app is based on [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/).
+However, it has been converted to run as a remote app on Liferay DXP 7.4.
 
-
-
-Try It
----
-
-[ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
-
-
-
-Install
----
+## Install
 
 `npm install`
 
-
-
-Usage
----
+## Usage
 
 `npm start`
